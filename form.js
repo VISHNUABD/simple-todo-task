@@ -7,7 +7,7 @@ class Form extends React.Component {
         })
     }
 
-    handleSubmit = e => {
+    handleSubmit = _e => {
         this.props.addItem(this.state.input);
         this.setState({ input: "" });
 
