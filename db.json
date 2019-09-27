@@ -1,12 +1,8 @@
 {
-    "to":[
-        {
-            "id1":"1",
-            "name":"vishnu.g"
-        },
-        {
-            "id1":"2",
-            "name":"vijay"
-        }
-    ]
+  "to": [
+    {
+      "title": "vishnu abd",
+      "id": 1
+    }
+  ]
 }
